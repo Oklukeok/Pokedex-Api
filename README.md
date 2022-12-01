@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Pokedex API
 
-> This is the second capstone project of the Microverse program. Our project is a pokémon index, listing the original 151 from the first season. 
+> Our project is a pokémon index, listing the original 151 from the first season, consuming the information from PokeAPI.co .
+  Also, the App is connected to a seccond API to post and retrieve the comments and reservations.
   The project was set up via webpack, the testing was done with jest, and we used babel to compile the JavaScript.
 
 
@@ -71,7 +72,7 @@ No testing required, but you can always take a look at the jest testing environm
 
 ## Authors
 
-👤 **Damiel Carrera**
+👤 **Daniel Carrera**
 
 - GitHub: [@carreraprogrammer](https://github.com/carreraprogrammer )
 - Twitter: [@carreraprog](https://twitter.com/carreraprog)
