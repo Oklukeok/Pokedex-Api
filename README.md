@@ -1,6 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Pokedex API
+  <img src="https://img.icons8.com/cute-clipart/256/pokemon-go.png" alt="logo" width="140"  height="auto" align="center" />
+  <br/>
+
+  <h3><b>Pokedex API</b></h3>
+
 
 > Our project is a pokémon index, listing the original 151 from the first season, consuming the information from PokeAPI.co .
   Also, the App is connected to a seccond API to post and retrieve the comments and reservations.
